@@ -1,3 +1,5 @@
+[来源](https://www.bilibili.com/video/BV1AT421Y7ks/)
+
 <p align="center">
 <h1 align="center"> <img src="./pics/icon/ai.png" width="30" />《动手学大模型》系列编程实践教程</h1>
 </p>
